@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\bin\Debug\net10.0\TDE-02.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\bin\Debug\net10.0\TDE-02.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\bin\Debug\net10.0\TDE-02.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\bin\Debug\net10.0\TDE-02.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\bin\Debug\net10.0\TDE-02.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.sourcelink.json
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\refint\TDE-02.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\TDE-02.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\ULBRA\ADS\2º SEMESTRE\DESENVOLVIMENTO BACK-END\TDE-02\obj\Debug\net10.0\ref\TDE-02.dll

@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("TDE-02 - Calculadora");
 
 Console.WriteLine("Informe o primeiro número: ");
 int primeiroNumero = Convert.ToInt32(Console.ReadLine());
