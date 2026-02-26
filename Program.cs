@@ -2,10 +2,10 @@
 Console.WriteLine("TDE-02 - Calculadora");
 
 Console.WriteLine("Informe o primeiro número: ");
-int primeiroNumero = Convert.ToInt32(Console.ReadLine());
+double primeiroNumero = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("Informe o segundo número: ");
-int segundoNumero = Convert.ToInt32(Console.ReadLine());
+double segundoNumero = Convert.ToDouble(Console.ReadLine());
 
 double adicao = primeiroNumero + segundoNumero;
 double subtracao = primeiroNumero - segundoNumero;
