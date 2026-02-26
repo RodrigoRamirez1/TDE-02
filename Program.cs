@@ -20,4 +20,4 @@ Console.WriteLine($"A subtração entre os dois números é: {subtracao}");
 
 //Placeholders
 Console.WriteLine(string.Format("A multiplicação entre os dois números é: {0}", multiplicacao));
-Console.WriteLine(string.Format("A divisão entre os dois números é: {1}", divisao));
+Console.WriteLine(string.Format("A divisão entre os dois números é: {0}", divisao));
